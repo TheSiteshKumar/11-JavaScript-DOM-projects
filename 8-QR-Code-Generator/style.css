@@ -65,14 +65,18 @@ body {
   max-height: 300px;
   margin: 10px auto;
   border: 1px solid #d1d1d1;
+  display: block;
 }
+
 
 input.error {
   border: 1px solid red;
 }
+
 .error {
   animation: shake 0.1s linear 10;
 }
+
 @keyframes shake {
   0% {
     transform: translateX(0);
