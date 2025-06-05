@@ -1,55 +1,59 @@
-## 🚀 Just wrapped up my 30 days, 30 JavaScript projects challenge! 🌐
+# 🚀 11 JavaScript DOM Projects
 
-From a Weather App ☀️ to a Cryptocurrency Website, it's been a coding journey like no other. 💻 Which project was your favorite? Let's chat in the comments below! 👇
+A collection of 11 beginner-to-intermediate level JavaScript projects focused on DOM manipulation and building real-world interfaces using HTML, CSS, and JavaScript.
 
-Here's a sneak peek at what I've been up to: [Project Showcase](https://thesiteshkumar.github.io/30-Days-JS-Mastery-Challenge/)
+🔗 **[Live Demo / Project Showcase](https://thesiteshkumar.github.io/11-JavaScript-DOM-projects/)**
 
-### 1. Weather App ☀️
-### 2. To-Do List App ✅
-### 3. Quiz App 🧠
-### 4. Password Generator 🔐
-### 5. Notes App 📝
-### 6. Age Calculator 🎂
-### 7. Quote Generator 📜
-### 8. QR Code Generator 📲
-### 9. Toast Notifications 🍞
-### 10. Music Player 🎵
-### 11. Stopwatch ⏱️
-### 12. Calculator 🧮
-### 13. Popup Modal 🌐
-### 14. Password Toggle 🔒
-### 15. Dark Mode Design 🌙
-### 16. Form Validation ✅
-### 17. Image Gallery 🖼️
-### 18. Email Subscription Form 📧
-### 19. Password Strength Indicator 🔐
-### 20. Text-to-Voice Converter 🗣️
-### 21. Coming Soon Page ⏳
-### 22. Image Background Change 🌈
-### 23. Mini Calendar 📅
-### 24. Custom Select Box 🎨
-### 25. Circular Progress Bar 🔄
-### 26. Product Page Design 🛍️
-### 27. Cryptocurrency Website 💰
-### 28. Digital Clock ⏰
-### 29. Drag & Drop Interface 🔄🖱️
-### 30. Image Search Engine 🔍
+## 🛠️ Projects List
 
-### Hashtags:
+1. **Weather App** ☀️  
+   Fetches live weather data using API and displays temperature, location, and condition.
 
-#JavaScriptProjects
-#CodingChallenge
-#WebDevelopment
-#TechInnovation
-#CodePassion
-#DeveloperLife
-#JavaScriptMagic
-#ProjectShowcase
-#TechCommunity
-#CodeJourney
-#CreativeCoding
-#LinkedInCoding
-#WebDevChallenge
-#CodingLife
-#ProgrammingFun
-#LearnToCode
+2. **To-Do List App** ✅  
+   Create, complete, and delete tasks with local storage support.
+
+3. **Quiz App** 🧠  
+   Interactive quiz with score tracking and dynamic questions.
+
+4. **Password Generator** 🔐  
+   Generate strong random passwords with options for characters, numbers, and symbols.
+
+5. **Notes App** 📝  
+   Add, edit, and delete notes — saved in local storage.
+
+6. **Age Calculator** 🎂  
+   Calculates exact age based on the user's input date of birth.
+
+7. **Quote Generator** 📜  
+   Displays random inspirational quotes with a "New Quote" button.
+
+8. **QR Code Generator** 📲  
+   Enter text or URL to generate a downloadable QR code.
+
+9. **Toast Notifications** 🍞  
+   Display auto-disappearing alerts and status messages.
+
+10. **Music Player** 🎵  
+   A basic music player with play/pause, next/prev, and progress control.
+
+11. **Stopwatch** ⏱️  
+   A simple stopwatch with start, stop, and reset functionality.
+
+---
+
+## 📂 Folder Structure
+
+Each project is in its own folder with:
+- `index.html`
+- `style.css`
+- `script.js`
+
+You can clone or download this repo and open any folder's `index.html` to run the project locally.
+
+---
+
+## 📦 How to Use
+
+```bash
+git clone https://github.com/TheSiteshKumar/11-JavaScript-DOM-projects.git
+cd 11-JavaScript-DOM-projects
